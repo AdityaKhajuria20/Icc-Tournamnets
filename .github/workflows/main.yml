@@ -20,4 +20,4 @@ jobs:
           aws-region: ap-south-1
           
       - name: Deploy
-        run: aws s3 sync .s3://icc-tournamnets
+        run: aws s3 sync .s3://icc-tournamnets --delete
