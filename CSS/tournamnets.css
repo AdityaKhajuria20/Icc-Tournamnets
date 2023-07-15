@@ -1,0 +1,81 @@
+
+body{
+    margin: 0 auto;
+    max-width: 1000px;
+   
+}
+  h1{
+      background-color: blueviolet;
+      padding: 50px;
+      border: 2px solid wheat;
+      border-radius: 5px;
+      text-align: center;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  h3{
+      color:darkorange
+  }
+  p{ font-size: 15px;
+}
+  .worldcup{
+      background-color:brown;
+     padding: 30px;
+      border-radius: 5px;
+      color: antiquewhite;
+      margin: 5px;
+  }
+  .t20worldcup{
+    background-color: brown;
+    padding: 30px;
+      border-radius: 5px;
+      margin: 5px;
+      color: antiquewhite;
+  }
+  .championstrophy{
+      background-color: brown;
+      padding: 40px;
+      border-radius: 5px;
+      margin: 5px;
+      color: antiquewhite;
+  }
+  .worldtestchampionship{
+      background-color: brown;
+      padding: 40px;
+      border-radius: 5px;
+      margin: 5px;
+      color: antiquewhite;
+  }
+  .class1{
+      width: 150px;
+      height: 120px;
+      float: left;
+      margin: 10px;
+     
+  }
+  .class2{
+      width: 150px;
+      height: 120px;
+      float: right;
+      margin: 5px;
+  }
+  .class3{
+    width: 150px;
+    height: 100px;
+    float: left;
+    margin: 10px;
+   
+}
+.class4{
+    width: 150px;
+    height: 120px;
+    float: right;
+    margin: 10px;
+   
+}
+.myinfo{
+    background-color: blueviolet;
+    padding: 20px;
+    border-radius: 5px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 22px;
+}
